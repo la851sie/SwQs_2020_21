@@ -25,6 +25,8 @@
                 <configuration>
                     <outputDirectory>destDir</outputDirectory>
                     <reportOutputDirectory>reportOutputDirectory</reportOutputDirectory>
+                    <source>8</source>
+                    <detectJavaApiLink>false</detectJavaApiLink>
                 </configuration>
             </plugin>
             <plugin>
